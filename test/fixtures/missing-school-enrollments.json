@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "student_id": 1,
+    "school_id": 999
+  },
+  {
+    "id": 2,
+    "student_id": 1,
+    "school_id": 2
+  },
+  {
+    "id": 3,
+    "student_id": 1,
+    "school_id": 3
+  }
+]
