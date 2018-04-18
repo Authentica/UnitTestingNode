@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "school_name": "Demo School",
+    "school_number": "PA-880"
+  },
+  {
+    "id": 2,
+    "school_name": "Example School",
+    "school_number": "MS-712"
+  },
+  {
+    "id": 3,
+    "school_name": "FooBar School",
+    "school_number": "SF-029"
+  }
+]

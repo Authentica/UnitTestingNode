@@ -1,7 +1,7 @@
-
 const produceStudentOutput = require('./produce-student-output');
+const mergeSchoolEnrollmentInfo = require('./merge-school-enrollment-info');
 
-(async function() {
-await produceStudentOutput();
-}
-)();
+(async () => {
+  // await produceStudentOutput();
+  await mergeSchoolEnrollmentInfo();
+})();

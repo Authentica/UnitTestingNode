@@ -1,0 +1,1801 @@
+[
+{"id":2,"student_id":1,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":3,"student_id":2,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":4,"student_id":3,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":5,"student_id":4,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":6,"student_id":5,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":7,"student_id":6,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":8,"student_id":7,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":9,"student_id":8,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":10,"student_id":9,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":11,"student_id":10,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":12,"student_id":11,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":13,"student_id":12,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":14,"student_id":13,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":15,"student_id":14,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":16,"student_id":15,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":17,"student_id":16,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":18,"student_id":17,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":19,"student_id":18,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":20,"student_id":19,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":21,"student_id":20,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":22,"student_id":21,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":23,"student_id":22,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":24,"student_id":23,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":25,"student_id":24,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":26,"student_id":25,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":27,"student_id":26,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":28,"student_id":27,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":29,"student_id":28,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":30,"student_id":29,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":31,"student_id":30,"school":{"id":1,"school_name":"Springview School","school_number":"RYG-532"}}
+,
+{"id":33,"student_id":31,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":34,"student_id":32,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":35,"student_id":33,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":36,"student_id":34,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":37,"student_id":35,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":38,"student_id":36,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":39,"student_id":37,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":40,"student_id":38,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":41,"student_id":39,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":42,"student_id":40,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":43,"student_id":41,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":44,"student_id":42,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":45,"student_id":43,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":46,"student_id":44,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":47,"student_id":45,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":48,"student_id":46,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":49,"student_id":47,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":50,"student_id":48,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":51,"student_id":49,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":52,"student_id":50,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":53,"student_id":51,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":54,"student_id":52,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":55,"student_id":53,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":56,"student_id":54,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":57,"student_id":55,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":58,"student_id":56,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":59,"student_id":57,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":60,"student_id":58,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":61,"student_id":59,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":62,"student_id":60,"school":{"id":2,"school_name":"North School","school_number":"CWK-906"}}
+,
+{"id":64,"student_id":61,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":65,"student_id":62,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":66,"student_id":63,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":67,"student_id":64,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":68,"student_id":65,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":69,"student_id":66,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":70,"student_id":67,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":71,"student_id":68,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":72,"student_id":69,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":73,"student_id":70,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":74,"student_id":71,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":75,"student_id":72,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":76,"student_id":73,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":77,"student_id":74,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":78,"student_id":75,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":79,"student_id":76,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":80,"student_id":77,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":81,"student_id":78,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":82,"student_id":79,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":83,"student_id":80,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":84,"student_id":81,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":85,"student_id":82,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":86,"student_id":83,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":87,"student_id":84,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":88,"student_id":85,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":89,"student_id":86,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":90,"student_id":87,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":91,"student_id":88,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":92,"student_id":89,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":93,"student_id":90,"school":{"id":3,"school_name":"Hagan School","school_number":"UNJ-739"}}
+,
+{"id":95,"student_id":91,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":96,"student_id":92,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":97,"student_id":93,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":98,"student_id":94,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":99,"student_id":95,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":100,"student_id":96,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":101,"student_id":97,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":102,"student_id":98,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":103,"student_id":99,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":104,"student_id":100,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":105,"student_id":101,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":106,"student_id":102,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":107,"student_id":103,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":108,"student_id":104,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":109,"student_id":105,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":110,"student_id":106,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":111,"student_id":107,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":112,"student_id":108,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":113,"student_id":109,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":114,"student_id":110,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":115,"student_id":111,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":116,"student_id":112,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":117,"student_id":113,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":118,"student_id":114,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":119,"student_id":115,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":120,"student_id":116,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":121,"student_id":117,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":122,"student_id":118,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":123,"student_id":119,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":124,"student_id":120,"school":{"id":4,"school_name":"Messerschmidt School","school_number":"BUS-766"}}
+,
+{"id":126,"student_id":121,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":127,"student_id":122,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":128,"student_id":123,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":129,"student_id":124,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":130,"student_id":125,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":131,"student_id":126,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":132,"student_id":127,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":133,"student_id":128,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":134,"student_id":129,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":135,"student_id":130,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":136,"student_id":131,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":137,"student_id":132,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":138,"student_id":133,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":139,"student_id":134,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":140,"student_id":135,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":141,"student_id":136,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":142,"student_id":137,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":143,"student_id":138,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":144,"student_id":139,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":145,"student_id":140,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":146,"student_id":141,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":147,"student_id":142,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":148,"student_id":143,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":149,"student_id":144,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":150,"student_id":145,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":151,"student_id":146,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":152,"student_id":147,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":153,"student_id":148,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":154,"student_id":149,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":155,"student_id":150,"school":{"id":5,"school_name":"Blackbird School","school_number":"JHM-566"}}
+,
+{"id":157,"student_id":151,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":158,"student_id":152,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":159,"student_id":153,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":160,"student_id":154,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":161,"student_id":155,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":162,"student_id":156,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":163,"student_id":157,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":164,"student_id":158,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":165,"student_id":159,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":166,"student_id":160,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":167,"student_id":161,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":168,"student_id":162,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":169,"student_id":163,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":170,"student_id":164,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":171,"student_id":165,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":172,"student_id":166,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":173,"student_id":167,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":174,"student_id":168,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":175,"student_id":169,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":176,"student_id":170,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":177,"student_id":171,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":178,"student_id":172,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":179,"student_id":173,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":180,"student_id":174,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":181,"student_id":175,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":182,"student_id":176,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":183,"student_id":177,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":184,"student_id":178,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":185,"student_id":179,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":186,"student_id":180,"school":{"id":6,"school_name":"Troy School","school_number":"NHI-249"}}
+,
+{"id":188,"student_id":181,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":189,"student_id":182,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":190,"student_id":183,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":191,"student_id":184,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":192,"student_id":185,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":193,"student_id":186,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":194,"student_id":187,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":195,"student_id":188,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":196,"student_id":189,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":197,"student_id":190,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":198,"student_id":191,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":199,"student_id":192,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":200,"student_id":193,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":201,"student_id":194,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":202,"student_id":195,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":203,"student_id":196,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":204,"student_id":197,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":205,"student_id":198,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":206,"student_id":199,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":207,"student_id":200,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":208,"student_id":201,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":209,"student_id":202,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":210,"student_id":203,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":211,"student_id":204,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":212,"student_id":205,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":213,"student_id":206,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":214,"student_id":207,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":215,"student_id":208,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":216,"student_id":209,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":217,"student_id":210,"school":{"id":7,"school_name":"Almo School","school_number":"BKG-191"}}
+,
+{"id":219,"student_id":211,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":220,"student_id":212,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":221,"student_id":213,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":222,"student_id":214,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":223,"student_id":215,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":224,"student_id":216,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":225,"student_id":217,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":226,"student_id":218,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":227,"student_id":219,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":228,"student_id":220,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":229,"student_id":221,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":230,"student_id":222,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":231,"student_id":223,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":232,"student_id":224,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":233,"student_id":225,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":234,"student_id":226,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":235,"student_id":227,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":236,"student_id":228,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":237,"student_id":229,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":238,"student_id":230,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":239,"student_id":231,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":240,"student_id":232,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":241,"student_id":233,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":242,"student_id":234,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":243,"student_id":235,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":244,"student_id":236,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":245,"student_id":237,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":246,"student_id":238,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":247,"student_id":239,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":248,"student_id":240,"school":{"id":8,"school_name":"Vernon School","school_number":"DHK-214"}}
+,
+{"id":250,"student_id":241,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":251,"student_id":242,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":252,"student_id":243,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":253,"student_id":244,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":254,"student_id":245,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":255,"student_id":246,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":256,"student_id":247,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":257,"student_id":248,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":258,"student_id":249,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":259,"student_id":250,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":260,"student_id":251,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":261,"student_id":252,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":262,"student_id":253,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":263,"student_id":254,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":264,"student_id":255,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":265,"student_id":256,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":266,"student_id":257,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":267,"student_id":258,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":268,"student_id":259,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":269,"student_id":260,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":270,"student_id":261,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":271,"student_id":262,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":272,"student_id":263,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":273,"student_id":264,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":274,"student_id":265,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":275,"student_id":266,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":276,"student_id":267,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":277,"student_id":268,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":278,"student_id":269,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":279,"student_id":270,"school":{"id":9,"school_name":"Eagan School","school_number":"XMV-888"}}
+,
+{"id":281,"student_id":271,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":282,"student_id":272,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":283,"student_id":273,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":284,"student_id":274,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":285,"student_id":275,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":286,"student_id":276,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":287,"student_id":277,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":288,"student_id":278,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":289,"student_id":279,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":290,"student_id":280,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":291,"student_id":281,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":292,"student_id":282,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":293,"student_id":283,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":294,"student_id":284,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":295,"student_id":285,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":296,"student_id":286,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":297,"student_id":287,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":298,"student_id":288,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":299,"student_id":289,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":300,"student_id":290,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":301,"student_id":291,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":302,"student_id":292,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":303,"student_id":293,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":304,"student_id":294,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":305,"student_id":295,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":306,"student_id":296,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":307,"student_id":297,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":308,"student_id":298,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":309,"student_id":299,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":310,"student_id":300,"school":{"id":10,"school_name":"Mandrake School","school_number":"TOU-171"}}
+,
+{"id":312,"student_id":301,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":313,"student_id":302,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":314,"student_id":303,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":315,"student_id":304,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":316,"student_id":305,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":317,"student_id":306,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":318,"student_id":307,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":319,"student_id":308,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":320,"student_id":309,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":321,"student_id":310,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":322,"student_id":311,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":323,"student_id":312,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":324,"student_id":313,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":325,"student_id":314,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":326,"student_id":315,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":327,"student_id":316,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":328,"student_id":317,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":329,"student_id":318,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":330,"student_id":319,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":331,"student_id":320,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":332,"student_id":321,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":333,"student_id":322,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":334,"student_id":323,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":335,"student_id":324,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":336,"student_id":325,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":337,"student_id":326,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":338,"student_id":327,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":339,"student_id":328,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":340,"student_id":329,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":341,"student_id":330,"school":{"id":11,"school_name":"1st School","school_number":"QXM-205"}}
+,
+{"id":343,"student_id":331,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":344,"student_id":332,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":345,"student_id":333,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":346,"student_id":334,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":347,"student_id":335,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":348,"student_id":336,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":349,"student_id":337,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":350,"student_id":338,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":351,"student_id":339,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":352,"student_id":340,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":353,"student_id":341,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":354,"student_id":342,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":355,"student_id":343,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":356,"student_id":344,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":357,"student_id":345,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":358,"student_id":346,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":359,"student_id":347,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":360,"student_id":348,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":361,"student_id":349,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":362,"student_id":350,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":363,"student_id":351,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":364,"student_id":352,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":365,"student_id":353,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":366,"student_id":354,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":367,"student_id":355,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":368,"student_id":356,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":369,"student_id":357,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":370,"student_id":358,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":371,"student_id":359,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":372,"student_id":360,"school":{"id":12,"school_name":"Acker School","school_number":"DUN-546"}}
+,
+{"id":374,"student_id":361,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":375,"student_id":362,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":376,"student_id":363,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":377,"student_id":364,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":378,"student_id":365,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":379,"student_id":366,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":380,"student_id":367,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":381,"student_id":368,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":382,"student_id":369,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":383,"student_id":370,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":384,"student_id":371,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":385,"student_id":372,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":386,"student_id":373,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":387,"student_id":374,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":388,"student_id":375,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":389,"student_id":376,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":390,"student_id":377,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":391,"student_id":378,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":392,"student_id":379,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":393,"student_id":380,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":394,"student_id":381,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":395,"student_id":382,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":396,"student_id":383,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":397,"student_id":384,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":398,"student_id":385,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":399,"student_id":386,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":400,"student_id":387,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":401,"student_id":388,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":402,"student_id":389,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":403,"student_id":390,"school":{"id":13,"school_name":"Magdeline School","school_number":"ASO-245"}}
+,
+{"id":405,"student_id":391,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":406,"student_id":392,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":407,"student_id":393,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":408,"student_id":394,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":409,"student_id":395,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":410,"student_id":396,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":411,"student_id":397,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":412,"student_id":398,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":413,"student_id":399,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":414,"student_id":400,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":415,"student_id":401,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":416,"student_id":402,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":417,"student_id":403,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":418,"student_id":404,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":419,"student_id":405,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":420,"student_id":406,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":421,"student_id":407,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":422,"student_id":408,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":423,"student_id":409,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":424,"student_id":410,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":425,"student_id":411,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":426,"student_id":412,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":427,"student_id":413,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":428,"student_id":414,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":429,"student_id":415,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":430,"student_id":416,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":431,"student_id":417,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":432,"student_id":418,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":433,"student_id":419,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":434,"student_id":420,"school":{"id":14,"school_name":"Katie School","school_number":"MZL-090"}}
+,
+{"id":436,"student_id":421,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":437,"student_id":422,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":438,"student_id":423,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":439,"student_id":424,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":440,"student_id":425,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":441,"student_id":426,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":442,"student_id":427,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":443,"student_id":428,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":444,"student_id":429,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":445,"student_id":430,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":446,"student_id":431,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":447,"student_id":432,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":448,"student_id":433,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":449,"student_id":434,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":450,"student_id":435,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":451,"student_id":436,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":452,"student_id":437,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":453,"student_id":438,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":454,"student_id":439,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":455,"student_id":440,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":456,"student_id":441,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":457,"student_id":442,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":458,"student_id":443,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":459,"student_id":444,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":460,"student_id":445,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":461,"student_id":446,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":462,"student_id":447,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":463,"student_id":448,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":464,"student_id":449,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":465,"student_id":450,"school":{"id":15,"school_name":"Ridge Oak School","school_number":"LWW-160"}}
+,
+{"id":467,"student_id":451,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":468,"student_id":452,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":469,"student_id":453,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":470,"student_id":454,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":471,"student_id":455,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":472,"student_id":456,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":473,"student_id":457,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":474,"student_id":458,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":475,"student_id":459,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":476,"student_id":460,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":477,"student_id":461,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":478,"student_id":462,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":479,"student_id":463,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":480,"student_id":464,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":481,"student_id":465,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":482,"student_id":466,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":483,"student_id":467,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":484,"student_id":468,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":485,"student_id":469,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":486,"student_id":470,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":487,"student_id":471,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":488,"student_id":472,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":489,"student_id":473,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":490,"student_id":474,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":491,"student_id":475,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":492,"student_id":476,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":493,"student_id":477,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":494,"student_id":478,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":495,"student_id":479,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":496,"student_id":480,"school":{"id":16,"school_name":"Burning Wood School","school_number":"PAZ-884"}}
+,
+{"id":498,"student_id":481,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":499,"student_id":482,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":500,"student_id":483,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":501,"student_id":484,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":502,"student_id":485,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":503,"student_id":486,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":504,"student_id":487,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":505,"student_id":488,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":506,"student_id":489,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":507,"student_id":490,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":508,"student_id":491,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":509,"student_id":492,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":510,"student_id":493,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":511,"student_id":494,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":512,"student_id":495,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":513,"student_id":496,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":514,"student_id":497,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":515,"student_id":498,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":516,"student_id":499,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":517,"student_id":500,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":518,"student_id":501,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":519,"student_id":502,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":520,"student_id":503,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":521,"student_id":504,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":522,"student_id":505,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":523,"student_id":506,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":524,"student_id":507,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":525,"student_id":508,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":526,"student_id":509,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":527,"student_id":510,"school":{"id":17,"school_name":"Meadow Vale School","school_number":"YGU-015"}}
+,
+{"id":529,"student_id":511,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":530,"student_id":512,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":531,"student_id":513,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":532,"student_id":514,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":533,"student_id":515,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":534,"student_id":516,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":535,"student_id":517,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":536,"student_id":518,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":537,"student_id":519,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":538,"student_id":520,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":539,"student_id":521,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":540,"student_id":522,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":541,"student_id":523,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":542,"student_id":524,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":543,"student_id":525,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":544,"student_id":526,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":545,"student_id":527,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":546,"student_id":528,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":547,"student_id":529,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":548,"student_id":530,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":549,"student_id":531,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":550,"student_id":532,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":551,"student_id":533,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":552,"student_id":534,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":553,"student_id":535,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":554,"student_id":536,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":555,"student_id":537,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":556,"student_id":538,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":557,"student_id":539,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":558,"student_id":540,"school":{"id":18,"school_name":"Johnson School","school_number":"MPN-657"}}
+,
+{"id":560,"student_id":541,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":561,"student_id":542,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":562,"student_id":543,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":563,"student_id":544,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":564,"student_id":545,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":565,"student_id":546,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":566,"student_id":547,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":567,"student_id":548,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":568,"student_id":549,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":569,"student_id":550,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":570,"student_id":551,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":571,"student_id":552,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":572,"student_id":553,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":573,"student_id":554,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":574,"student_id":555,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":575,"student_id":556,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":576,"student_id":557,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":577,"student_id":558,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":578,"student_id":559,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":579,"student_id":560,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":580,"student_id":561,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":581,"student_id":562,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":582,"student_id":563,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":583,"student_id":564,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":584,"student_id":565,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":585,"student_id":566,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":586,"student_id":567,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":587,"student_id":568,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":588,"student_id":569,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":589,"student_id":570,"school":{"id":19,"school_name":"Crescent Oaks School","school_number":"CHM-474"}}
+,
+{"id":591,"student_id":571,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":592,"student_id":572,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":593,"student_id":573,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":594,"student_id":574,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":595,"student_id":575,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":596,"student_id":576,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":597,"student_id":577,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":598,"student_id":578,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":599,"student_id":579,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":600,"student_id":580,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":601,"student_id":581,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":602,"student_id":582,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":603,"student_id":583,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":604,"student_id":584,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":605,"student_id":585,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":606,"student_id":586,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":607,"student_id":587,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":608,"student_id":588,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":609,"student_id":589,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":610,"student_id":590,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":611,"student_id":591,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":612,"student_id":592,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":613,"student_id":593,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":614,"student_id":594,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":615,"student_id":595,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":616,"student_id":596,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":617,"student_id":597,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":618,"student_id":598,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":619,"student_id":599,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":620,"student_id":600,"school":{"id":20,"school_name":"Blackbird School","school_number":"MQQ-757"}}
+,
+{"id":622,"student_id":601,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":623,"student_id":602,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":624,"student_id":603,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":625,"student_id":604,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":626,"student_id":605,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":627,"student_id":606,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":628,"student_id":607,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":629,"student_id":608,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":630,"student_id":609,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":631,"student_id":610,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":632,"student_id":611,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":633,"student_id":612,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":634,"student_id":613,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":635,"student_id":614,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":636,"student_id":615,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":637,"student_id":616,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":638,"student_id":617,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":639,"student_id":618,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":640,"student_id":619,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":641,"student_id":620,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":642,"student_id":621,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":643,"student_id":622,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":644,"student_id":623,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":645,"student_id":624,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":646,"student_id":625,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":647,"student_id":626,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":648,"student_id":627,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":649,"student_id":628,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":650,"student_id":629,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":651,"student_id":630,"school":{"id":21,"school_name":"Jackson School","school_number":"DNB-960"}}
+,
+{"id":653,"student_id":631,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":654,"student_id":632,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":655,"student_id":633,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":656,"student_id":634,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":657,"student_id":635,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":658,"student_id":636,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":659,"student_id":637,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":660,"student_id":638,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":661,"student_id":639,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":662,"student_id":640,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":663,"student_id":641,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":664,"student_id":642,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":665,"student_id":643,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":666,"student_id":644,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":667,"student_id":645,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":668,"student_id":646,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":669,"student_id":647,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":670,"student_id":648,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":671,"student_id":649,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":672,"student_id":650,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":673,"student_id":651,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":674,"student_id":652,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":675,"student_id":653,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":676,"student_id":654,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":677,"student_id":655,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":678,"student_id":656,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":679,"student_id":657,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":680,"student_id":658,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":681,"student_id":659,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":682,"student_id":660,"school":{"id":22,"school_name":"Merrick School","school_number":"WOZ-075"}}
+,
+{"id":684,"student_id":661,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":685,"student_id":662,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":686,"student_id":663,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":687,"student_id":664,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":688,"student_id":665,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":689,"student_id":666,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":690,"student_id":667,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":691,"student_id":668,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":692,"student_id":669,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":693,"student_id":670,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":694,"student_id":671,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":695,"student_id":672,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":696,"student_id":673,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":697,"student_id":674,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":698,"student_id":675,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":699,"student_id":676,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":700,"student_id":677,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":701,"student_id":678,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":702,"student_id":679,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":703,"student_id":680,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":704,"student_id":681,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":705,"student_id":682,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":706,"student_id":683,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":707,"student_id":684,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":708,"student_id":685,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":709,"student_id":686,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":710,"student_id":687,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":711,"student_id":688,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":712,"student_id":689,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":713,"student_id":690,"school":{"id":23,"school_name":"Bay School","school_number":"QFN-666"}}
+,
+{"id":715,"student_id":691,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":716,"student_id":692,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":717,"student_id":693,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":718,"student_id":694,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":719,"student_id":695,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":720,"student_id":696,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":721,"student_id":697,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":722,"student_id":698,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":723,"student_id":699,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":724,"student_id":700,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":725,"student_id":701,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":726,"student_id":702,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":727,"student_id":703,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":728,"student_id":704,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":729,"student_id":705,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":730,"student_id":706,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":731,"student_id":707,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":732,"student_id":708,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":733,"student_id":709,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":734,"student_id":710,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":735,"student_id":711,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":736,"student_id":712,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":737,"student_id":713,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":738,"student_id":714,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":739,"student_id":715,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":740,"student_id":716,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":741,"student_id":717,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":742,"student_id":718,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":743,"student_id":719,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":744,"student_id":720,"school":{"id":24,"school_name":"Reindahl School","school_number":"SPF-108"}}
+,
+{"id":746,"student_id":721,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":747,"student_id":722,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":748,"student_id":723,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":749,"student_id":724,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":750,"student_id":725,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":751,"student_id":726,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":752,"student_id":727,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":753,"student_id":728,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":754,"student_id":729,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":755,"student_id":730,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":756,"student_id":731,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":757,"student_id":732,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":758,"student_id":733,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":759,"student_id":734,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":760,"student_id":735,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":761,"student_id":736,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":762,"student_id":737,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":763,"student_id":738,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":764,"student_id":739,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":765,"student_id":740,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":766,"student_id":741,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":767,"student_id":742,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":768,"student_id":743,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":769,"student_id":744,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":770,"student_id":745,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":771,"student_id":746,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":772,"student_id":747,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":773,"student_id":748,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":774,"student_id":749,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":775,"student_id":750,"school":{"id":25,"school_name":"Carberry School","school_number":"DYP-608"}}
+,
+{"id":777,"student_id":751,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":778,"student_id":752,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":779,"student_id":753,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":780,"student_id":754,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":781,"student_id":755,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":782,"student_id":756,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":783,"student_id":757,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":784,"student_id":758,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":785,"student_id":759,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":786,"student_id":760,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":787,"student_id":761,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":788,"student_id":762,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":789,"student_id":763,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":790,"student_id":764,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":791,"student_id":765,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":792,"student_id":766,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":793,"student_id":767,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":794,"student_id":768,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":795,"student_id":769,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":796,"student_id":770,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":797,"student_id":771,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":798,"student_id":772,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":799,"student_id":773,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":800,"student_id":774,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":801,"student_id":775,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":802,"student_id":776,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":803,"student_id":777,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":804,"student_id":778,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":805,"student_id":779,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":806,"student_id":780,"school":{"id":26,"school_name":"Goodland School","school_number":"JMJ-327"}}
+,
+{"id":808,"student_id":781,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":809,"student_id":782,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":810,"student_id":783,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":811,"student_id":784,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":812,"student_id":785,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":813,"student_id":786,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":814,"student_id":787,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":815,"student_id":788,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":816,"student_id":789,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":817,"student_id":790,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":818,"student_id":791,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":819,"student_id":792,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":820,"student_id":793,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":821,"student_id":794,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":822,"student_id":795,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":823,"student_id":796,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":824,"student_id":797,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":825,"student_id":798,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":826,"student_id":799,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":827,"student_id":800,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":828,"student_id":801,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":829,"student_id":802,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":830,"student_id":803,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":831,"student_id":804,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":832,"student_id":805,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":833,"student_id":806,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":834,"student_id":807,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":835,"student_id":808,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":836,"student_id":809,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":837,"student_id":810,"school":{"id":27,"school_name":"Hovde School","school_number":"RTL-045"}}
+,
+{"id":839,"student_id":811,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":840,"student_id":812,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":841,"student_id":813,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":842,"student_id":814,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":843,"student_id":815,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":844,"student_id":816,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":845,"student_id":817,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":846,"student_id":818,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":847,"student_id":819,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":848,"student_id":820,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":849,"student_id":821,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":850,"student_id":822,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":851,"student_id":823,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":852,"student_id":824,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":853,"student_id":825,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":854,"student_id":826,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":855,"student_id":827,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":856,"student_id":828,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":857,"student_id":829,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":858,"student_id":830,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":859,"student_id":831,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":860,"student_id":832,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":861,"student_id":833,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":862,"student_id":834,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":863,"student_id":835,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":864,"student_id":836,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":865,"student_id":837,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":866,"student_id":838,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":867,"student_id":839,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":868,"student_id":840,"school":{"id":28,"school_name":"Farragut School","school_number":"IPM-484"}}
+,
+{"id":870,"student_id":841,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":871,"student_id":842,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":872,"student_id":843,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":873,"student_id":844,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":874,"student_id":845,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":875,"student_id":846,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":876,"student_id":847,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":877,"student_id":848,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":878,"student_id":849,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":879,"student_id":850,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":880,"student_id":851,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":881,"student_id":852,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":882,"student_id":853,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":883,"student_id":854,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":884,"student_id":855,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":885,"student_id":856,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":886,"student_id":857,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":887,"student_id":858,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":888,"student_id":859,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":889,"student_id":860,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":890,"student_id":861,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":891,"student_id":862,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":892,"student_id":863,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":893,"student_id":864,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":894,"student_id":865,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":895,"student_id":866,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":896,"student_id":867,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":897,"student_id":868,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":898,"student_id":869,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":899,"student_id":870,"school":{"id":29,"school_name":"Lunder School","school_number":"GLG-931"}}
+,
+{"id":901,"student_id":871,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":902,"student_id":872,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":903,"student_id":873,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":904,"student_id":874,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":905,"student_id":875,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":906,"student_id":876,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":907,"student_id":877,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":908,"student_id":878,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":909,"student_id":879,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":910,"student_id":880,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":911,"student_id":881,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":912,"student_id":882,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":913,"student_id":883,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":914,"student_id":884,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":915,"student_id":885,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":916,"student_id":886,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":917,"student_id":887,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":918,"student_id":888,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":919,"student_id":889,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":920,"student_id":890,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":921,"student_id":891,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":922,"student_id":892,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":923,"student_id":893,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":924,"student_id":894,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":925,"student_id":895,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":926,"student_id":896,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":927,"student_id":897,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":928,"student_id":898,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":929,"student_id":899,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+,
+{"id":930,"student_id":900,"school":{"id":30,"school_name":"Northfield School","school_number":"OVL-171"}}
+]

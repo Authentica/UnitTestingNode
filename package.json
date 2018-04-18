@@ -2,9 +2,12 @@
   "name": "unittest",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node api/app.js",
+    "debug-api": "node --nolazy --inspect-brk=9229 api/app.js",
+    "debug-consumer": "node --nolazy --inspect-brk=9229 consumer/index.js",
+    "test": "mocha --reporter spec --recursive"
   },
   "author": "",
   "license": "ISC",
