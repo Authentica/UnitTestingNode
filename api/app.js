@@ -7,7 +7,7 @@ app.get("/students", (req, res) => {
 });
 
 app.get("/schools", (req, res) => {
-var fileContent = fs.readFileSync("school.json");
+var fileContent = fs.readFileSync("schools.json");
 res.json(JSON.parse(fileContent.toString()));
 });
 
